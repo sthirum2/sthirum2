@@ -1,24 +1,46 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<div align="center">
+
+# Hi, I'm Srivatsav Thirumala 👋
+
+### Building practical AI products for people, teams, and the real world
+
+[![GitHub](https://img.shields.io/badge/GitHub-sthirum2-181717?style=flat-square&logo=github)](https://github.com/sthirum2)
+[![Profile views](https://komarev.com/ghpvc/?username=sthirum2&style=flat-square&color=blue)](https://github.com/sthirum2)
+
+</div>
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I build end-to-end systems that combine **AI, computer vision, data retrieval, and modern web backends**. My projects turn difficult, real-world data into useful experiences—from searching inside videos to understanding athletic form, supporting UMD students, and monitoring maritime activity.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## What I've built
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [memevolution](https://github.com/sthirum2/memevolution) | Autonomous agent that creates, deploys, measures, and evolves memes using real-world engagement. | TypeScript |
+| [pin_point](https://github.com/sthirum2/pin_point) | Lets users ask questions about lectures, meetings, and interviews, then jumps to the exact relevant moment and speaker. | Python, FastAPI, MongoDB, FAISS |
+| [KinetiQ](https://github.com/sthirum2/KinetiQ) | Converts sports video into actionable biomechanical feedback using computer vision and skeletal landmarks. | Python, computer vision |
+| [Project NEPTUNE](https://github.com/sthirum2/Project_NEPTUNE) | Real-time maritime threat-intelligence dashboard for vessel anomalies, GPS spoofing, AIS loss, and suspicious course changes. | Python, FastAPI |
+| [CoachConnect](https://github.com/sthirum2/CoachConnect) | Marketplace concept connecting UMD students with student-athlete coaches for affordable, sport-specific training. | Full-stack web |
+| **Testudo AI** | AI assistant for UMD students, designed to help with campus life, academics, dining, transit, schedules, and events. | AI agents, data integrations |
+
+## Tech & interests
+
+- **Languages:** Python, TypeScript, JavaScript
+- **Backend:** FastAPI, MongoDB, asynchronous APIs
+- **AI & data:** Computer vision, video understanding, embeddings, FAISS, reranking, evaluation metrics
+- **Interests:** Agentic systems, sports technology, student tools, real-time intelligence, and products with measurable impact
+
+## Featured repositories
+
+<div align="center">
+  <a href="https://github.com/sthirum2/memevolution">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthirum2&repo=memevolution&theme=transparent" alt="memevolution repository card" />
+  </a>
+  <a href="https://github.com/sthirum2/pin_point">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthirum2&repo=pin_point&theme=transparent" alt="pin_point repository card" />
+  </a>
+</div>
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
