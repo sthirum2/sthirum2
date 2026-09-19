@@ -10,7 +10,7 @@
 
 ## About
 
-I build end-to-end systems that combine **AI, computer vision, data retrieval, and modern web backends**. My projects turn difficult, real-world data into useful experiences—from searching inside videos to understanding athletic form, supporting UMD students, and monitoring maritime activity.
+I build end-to-end systems that combine **AI, computer vision, data retrieval, and modern web backends**. My projects turn difficult, real-world data into useful experiences—from searching inside videos to understanding athletic form, supporting UMD students, and building autonomous agents.
 
 ## What I've built
 
