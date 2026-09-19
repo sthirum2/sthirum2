@@ -14,34 +14,82 @@ I build end-to-end systems that combine **AI, computer vision, data retrieval, a
 
 ## What I've built
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [memevolution](https://github.com/sthirum2/memevolution) | Autonomous agent that creates, deploys, measures, and evolves memes using real-world engagement. | TypeScript |
-| [pin_point](https://github.com/sthirum2/pin_point) | Lets users ask questions about lectures, meetings, and interviews, then jumps to the exact relevant moment and speaker. | Python, FastAPI, MongoDB, FAISS |
-| [KinetiQ](https://github.com/sthirum2/KinetiQ) | Converts sports video into actionable biomechanical feedback using computer vision and skeletal landmarks. | Python, computer vision |
-| [Project NEPTUNE](https://github.com/sthirum2/Project_NEPTUNE) | Real-time maritime threat-intelligence dashboard for vessel anomalies, GPS spoofing, AIS loss, and suspicious course changes. | Python, FastAPI |
-| [CoachConnect](https://github.com/sthirum2/CoachConnect) | Marketplace concept connecting UMD students with student-athlete coaches for affordable, sport-specific training. | Full-stack web |
-| **Testudo AI** | Built the scheduling component to help UMD students plan around their classes and availability. | Scheduling, AI agents, data integrations |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/memevolution">🧬 memevolution</a></h3>
+      <p>Autonomous agent that creates, deploys, measures, and evolves memes using real-world engagement.</p>
+      <sub>TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/pin_point">🔎 pin_point</a></h3>
+      <p>Ask questions about lectures, meetings, and interviews, then jump to the exact relevant moment and speaker.</p>
+      <sub>Python · FastAPI · MongoDB · FAISS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/KinetiQ">🏃 KinetiQ</a></h3>
+      <p>Turns sports video into actionable biomechanical feedback using computer vision and skeletal landmarks.</p>
+      <sub>Python · Computer vision</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/Project_NEPTUNE">🌊 Project NEPTUNE</a></h3>
+      <p>Real-time maritime threat-intelligence dashboard for vessel anomalies, GPS spoofing, AIS loss, and course changes.</p>
+      <sub>Python · FastAPI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/CoachConnect">🏋️ CoachConnect</a></h3>
+      <p>Marketplace concept connecting UMD students with student-athlete coaches for affordable, sport-specific training.</p>
+      <sub>Full-stack web</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Arvin385/testudo-ai">🐢 Testudo AI</a></h3>
+      <p>Built the scheduling component to help UMD students plan around their classes and availability.</p>
+      <sub>Scheduling · AI agents · Data integrations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sthirum2/SplatSuRe">✨ SplatSuRe</a></h3>
+      <p>Repository for selective super-resolution in multi-view consistent 3D Gaussian Splatting. Included as a project contribution.</p>
+      <sub>Python · 3D vision · Research</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 More to come</h3>
+      <p>Exploring new ways to turn research and real-world data into useful products.</p>
+      <sub>AI · Systems · Product</sub>
+    </td>
+  </tr>
+</table>
 
 ## Tech & interests
 
-- **Languages**
+<div align="center">
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
 
-- **Backend & databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Async APIs](https://img.shields.io/badge/Async_APIs-6E56CF?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & data
 
-- **AI, retrieval & vision**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
-  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
-  ![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-  ![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Reranking](https://img.shields.io/badge/Reranking-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+### AI, retrieval & vision
 
-- **Interests:** Agentic systems, sports technology, student tools, real-time intelligence, and products with measurable impact
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Reranking](https://img.shields.io/badge/Reranking-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+![3D Gaussian Splatting](https://img.shields.io/badge/3D_Gaussian_Splatting-7B61FF?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+<p align="center">
+  <strong>Interests:</strong> Agentic systems · Sports technology · Student tools · Real-time intelligence · Research with measurable impact
+</p>
